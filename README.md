@@ -11,8 +11,8 @@
 ![Politeknik Negeri Malang](https://img.shields.io/badge/Politeknik_Negeri_Malang-Business_Information_Systems-7C5CFC?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auliabilqisty/)
-[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ab.auliaabilqis@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-111111?style=flat-square&logo=githubpages&logoColor=white)](https://auliabilqisty.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square)](mailto:ab.auliaabilqis@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square)](https://auliabilqisty.vercel.app)
 
 </div>
 
